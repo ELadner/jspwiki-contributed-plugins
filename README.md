@@ -1,8 +1,7 @@
 JSPWiki contributed plugins
 ===========================
 
-You can find all Plugins contributed to JSPWiki (pre-apache version) on this
-archive:  http://www.ecyrd.com/JSPWiki/wiki/JSPWikiPlugins
+You can find all Plugins contributed to JSPWiki on [this page](https://jspwiki-wiki.apache.org/Wiki.jsp?page=ContributedPlugins#section-ContributedPlugins-TablePlugin)
 
 Plugins on this repository have been converted to the Apache JSPWiki.
 
