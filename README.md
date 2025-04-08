@@ -21,7 +21,7 @@ Installation Instructions:
 - Modify the plugin search path in your `WEB-INF/jspwiki.properties` and
   make sure there are no spaces between the different entries. Example:
 
-         jspwiki.plugin.searchPath = brushed.jspwiki.tableplugin
+         jspwiki.plugin.searchPath = com.jspwiki.extensions.plugin
 
 - Restart JSPWiki
 
